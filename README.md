@@ -1,6 +1,6 @@
 # Sezryn — Code Editor
 
-**A product of [KORBELYN SYSTEMS](https://github.com/Dicapso)**
+**A product of [KORBELYN SYSTEMS](https://github.com/Korbelyn-Systems)**
 
 ![C# / .NET 8](https://img.shields.io/badge/C%23%20%2F%20.NET%208-1e1b3a?style=flat-square) ![WPF](https://img.shields.io/badge/WPF-1e1b3a?style=flat-square) ![Roslyn](https://img.shields.io/badge/Roslyn-1e1b3a?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-1e1b3a?style=flat-square) ![Windows](https://img.shields.io/badge/Windows-1e1b3a?style=flat-square)
 
